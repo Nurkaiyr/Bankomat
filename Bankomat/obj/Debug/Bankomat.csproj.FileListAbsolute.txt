@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+c:\users\1\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+c:\users\1\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+c:\users\1\documents\visual studio 2017\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+c:\users\1\documents\visual studio 2017\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
